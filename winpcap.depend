@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1621835573 source:c:\users\29796\documents\winpcap\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pcap.h>
+
+1612199733 c:\users\29796\documents\winpcap\regex.h
+	<sys/types.h>
+	<limits.h>
+
