@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1621835573 source:c:\users\29796\documents\winpcap\main.c
+1621943495 source:c:\users\29796\documents\winpcap\main.c
 	<stdio.h>
 	<stdlib.h>
 	<pcap.h>
@@ -7,4 +7,7 @@
 1612199733 c:\users\29796\documents\winpcap\regex.h
 	<sys/types.h>
 	<limits.h>
+
+1184959278 g:\gnuwin32\include\regex.h
+	<sys/types.h>
 
